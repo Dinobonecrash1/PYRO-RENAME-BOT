@@ -86,13 +86,6 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/guardians_Bot_Updates>Guardians_Bot_Updates</a>
-» Update  : <a href=https://t.me/guardians_Bot_Updates>Update</a>
-• ❣️ <a href=https://t.me/Zenitsu_AF>𝗟𝗡 𝗧𝗘𝗖𝗛𝗡𝗜𝗖</a>
-• ❣️ <a href=https://t.me/Anime_Chat_Guardians>𝗠𝗵𝗱_𝗿𝘇𝗻</a>
-• ❣️ <a href=https://t.me/guardians_Bot_Updates>Update</a>
-• ❣️ <a href=</a>
-• ❣️ <a href=></a>
-• ❣️ <a href=></a> """
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
